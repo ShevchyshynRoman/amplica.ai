@@ -1,18 +1,24 @@
 {
-  "homepage": ".",
-  "name": "react-typescript-starter-pack",
+  "homepage": "https://ShevchyshynRoman.github.io/amplica.ai",
+  "name": "amplica.ai",
   "version": "0.1.0",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
     "@fortawesome/fontawesome-free": "^6.5.2",
-    "bulma": "^1.0.1",
+    "@mui/material": "^7.1.0",
     "classnames": "^2.5.1",
+    "firebase": "^11.7.3",
+    "notistack": "^3.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-firebase-hooks": "^5.1.1",
+    "react-hook-form": "^7.56.4",
     "react-router-dom": "^6.25.1",
     "react-transition-group": "^4.4.5"
   },
   "devDependencies": {
-    "@mate-academy/scripts": "^1.8.5",
+    "@mate-academy/scripts": "^2.1.1",
     "@mate-academy/students-ts-config": "*",
     "@mate-academy/stylelint-config": "*",
     "@types/node": "^20.14.10",
